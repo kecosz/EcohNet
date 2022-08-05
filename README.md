@@ -6,4 +6,4 @@ This is the source code for [Suzuki et al. (2022), “Decomposing predictability
 3.	Edit ”xxx” in “SetDirectory["xxx"]” to change it to the path of the unzipped folder
 4.	Execute each cell according to the instructions in the nb file
 
-If you want to reproduce the results of the above paper download [data](https://drive.google.com/file/d/1KhmhZqMog9IP2t3TkH-zjQHC33PNYcoY/view?usp=sharing) and unzip it in the ecohnet folder.
+If you want to reproduce the results of the paper download [data](https://drive.google.com/file/d/1KhmhZqMog9IP2t3TkH-zjQHC33PNYcoY/view?usp=sharing) and unzip it in the ecohnet folder.

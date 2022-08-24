@@ -1,5 +1,5 @@
 # EcohNet
-This is the source code for [Suzuki et al. (2022), “Decomposing predictability to identify dominant causal drivers in complex ecosystems”](https://www.biorxiv.org/content/10.1101/2022.03.14.484197v1.full). To set up an environment to analyze your own data, follow steps below (assumes Mathematica is installed):
+This is the source code for [Suzuki et al. (2022), “Decomposing predictability to identify dominant causal drivers in complex ecosystems”](https://www.biorxiv.org/content/10.1101/2022.03.14.484197v1.full). To set up an environment to analyze your own data, follow steps below (assuming Mathematica is installed):
 
 1.	Download and unzip ecohnet.zip
 2.	Open ecohnet_main.nb

@@ -1,5 +1,5 @@
 # EcohNet
-(06/13/24) We are currently testing the updated version. To use this version, unzip the folder as follows and download "ecohnet0x.wl" to the same folder. Then, in the notebook file, specify Needs["ecohnet0x`"] instead of Needs["ecohnet0`"].
+(06/13/24) We are currently testing the updated version. To use this version, unzip the folder as follows and download "ecohnet0x.wl" to the same folder. Then, in the notebook file, specify Needs["ecohnet0x\`"] instead of Needs["ecohnet0\`"].
   
 This is the source code for [Suzuki et al. (2022), “Decomposing predictability to identify dominant causal drivers in complex ecosystems”](https://www.biorxiv.org/content/10.1101/2022.03.14.484197v1.full). To set up an environment to analyze your own data, follow steps below (assuming Mathematica is installed):
 
